@@ -1,0 +1,83 @@
+Ant¡doto	Medicamento contra un veneno.
+	
+Argentino	"Relativo a argentina, pa¡s de am‚rica del sur, o a sus habitantes."
+	
+Balanza	Instrumento para pesar mediante la comparaci¢n del objeto que se quiere pesar con otro de peso conocido.
+	
+Barrera	Mecanismo formado por una barra que puede elevarse sobre uno de sus extremos para controlar el paso de veh¡culos.
+	
+Batata	"Planta trepadora de tallo rastrero y ramoso, hojas alternas acorazonadas, flores grandes y acampanadas, rojas por dentro y blancas por fuera, y tub‚rculos comestibles."
+	
+Citar	"Avisar a una persona para que se presente en un lugar determinado, cierto d¡a y a cierta hora, con la finalidad de encontrarse con alguien para verse o tratar alg£n asunto."
+	
+Clima	"Conjunto de condiciones atmosf‚ricas propias de un lugar, constituido por la cantidad y frecuencia de lluvias, la humedad, la temperatura, los vientos, etc., y cuya acci¢n compleja influye en la existencia de los seres sometidos a ella."
+	
+Crust ceo	"Que es un invertebrado artr¢podo con respiraci¢n branquial, dos pares de antenas y el cuerpo cubierto generalmente por un caparaz¢n calc reo."
+	
+Descifrar	Descubrir el significado de un mensaje escrito en clave o en c¢digo desconocido.
+	
+Di metro	"L¡nea recta que une dos puntos de una circunferencia, de una curva cerrada o de la superficie de una esfera pasando por su centro."
+	
+Espectro	"Figura irreal, imaginaria o fant stica que alguien cree ver."
+	
+F¢sforo	"Palito de madera, de papel enrollado y encerado u otro material combustible, recubierto de f¢sforo y azufre en un extremo, que prende al rozarlo con una superficie rugosa."
+	
+Guardar	"Poner una cosa en un lugar para que no se pierda o para que se conserve en buen estado, o en el lugar en que le corresponde estar."
+	
+Izar	Subir una cosa tirando de la cuerda de que est  colgada.
+	
+Lapsus	Equivocaci¢n que se comete por olvido o falta de atenci¢n.
+	
+Nueva	Joven
+	
+Pobreza	Escasez o carencia de lo necesario para vivir.
+	
+Problema	Cuesti¢n discutible que hay que resolver o a la que se busca una explicaci¢n.
+	
+Reo	Persona que ha sido acusada de un delito por el que est  siendo juzgada.
+	
+Sacerdote	Persona que consagra su vida a alguna divinidad y que tiene entre sus funciones principales dirigir los ritos religiosos y ofrecer los sacrificios a la divinidad.
+	
+Sinfon¡a	Composici¢n musical concebida para ser interpretada por una orquesta y que consta de tres o cuatro movimientos de larga duraci¢n con cierta unidad de tono y desarrollo.
+	
+Tabique	Pared delgada; en especial la pared interior de una casa que no soporta cargas y sirve para la divisi¢n del espacio de las habitaciones.
+	
+Tenedor	Utensilio de mesa que consta de un mango y una cabeza con dientes largos a modo de clavos.
+	
+àrgano	Unidad funcional de un organismo multicelular que constituye una unidad estructural y realiza una funci¢n determinada.
+	
+a	a
+	
+b	b
+	
+c	c
+	
+d	d
+	
+e	e
+	
+f	f
+	
+g	g
+	
+h	h
+	
+i	i
+	
+j	j
+	
+k	k
+	
+l	l
+	
+m	m
+	
+n	n
+	
+ñ	ñ
+	
+o	o
+	
+p	p
+	
+q	q
